@@ -1,0 +1,11 @@
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_8_Get_To_Know_Classmate\bin\Debug\netcoreapp2.2\Lab_8_Get_To_Know_Classmate.deps.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_8_Get_To_Know_Classmate\bin\Debug\netcoreapp2.2\Lab_8_Get_To_Know_Classmate.runtimeconfig.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_8_Get_To_Know_Classmate\bin\Debug\netcoreapp2.2\Lab_8_Get_To_Know_Classmate.runtimeconfig.dev.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_8_Get_To_Know_Classmate\bin\Debug\netcoreapp2.2\Lab_8_Get_To_Know_Classmate.dll
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_8_Get_To_Know_Classmate\bin\Debug\netcoreapp2.2\Lab_8_Get_To_Know_Classmate.pdb
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_8_Get_To_Know_Classmate\obj\Debug\netcoreapp2.2\Lab_8_Get_To_Know_Classmate.csprojAssemblyReference.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_8_Get_To_Know_Classmate\obj\Debug\netcoreapp2.2\Lab_8_Get_To_Know_Classmate.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_8_Get_To_Know_Classmate\obj\Debug\netcoreapp2.2\Lab_8_Get_To_Know_Classmate.AssemblyInfoInputs.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_8_Get_To_Know_Classmate\obj\Debug\netcoreapp2.2\Lab_8_Get_To_Know_Classmate.AssemblyInfo.cs
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_8_Get_To_Know_Classmate\obj\Debug\netcoreapp2.2\Lab_8_Get_To_Know_Classmate.dll
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_8_Get_To_Know_Classmate\obj\Debug\netcoreapp2.2\Lab_8_Get_To_Know_Classmate.pdb
